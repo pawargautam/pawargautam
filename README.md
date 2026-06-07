@@ -57,3 +57,4 @@ Personal developer portfolio website.
 
 ## 📫 Contact
 - GitHub: https://github.com/pawargautam
+- Linkedin: https://linkedin.com/in/pawargautam
