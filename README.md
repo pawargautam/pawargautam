@@ -58,3 +58,7 @@ Personal developer portfolio website.
 ## 📫 Contact
 - GitHub: https://github.com/pawargautam
 - Linkedin: https://linkedin.com/in/pawargautam
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pawargautam&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawargautam&layout=compact)
