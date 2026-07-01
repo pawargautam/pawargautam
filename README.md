@@ -37,13 +37,13 @@
 
 ## 📌 Featured Projects
 
-### 🛒 Jewellery E-Commerce Website
-Online jewellery shopping website with product pages and cart system.
+###  Spave-Invader Game
+A Persnal game inspired by the Space Invader arcade game
 
-### 📚 Student Management System
+###  Student Management System
 Project for managing student records using database connectivity.
 
-### 🌐 Portfolio Website
+###  Portfolio Website
 Personal developer portfolio website.
 
 ---
